@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m Aakanshi Malik
-💻 Full-Stack Developer | React.js | Node.js | Express.js | Firebase | MERN Stack
-📈 Passionate about building responsive, modular web apps and solving DSA problems (250+ LeetCode solved)
+👋 Hi, I’m Aakanshi Malik <br>
+💻 Full-Stack Developer | React.js | Node.js | Express.js | Firebase | MERN Stack <br>
+📈 Passionate about building responsive, modular web apps and solving DSA problems (250+ LeetCode solved) <br>
 🌱 Open Source Contributor | Always learning and experimenting with new technologies
 
 
